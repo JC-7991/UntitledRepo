@@ -1,0 +1,19 @@
+{
+  "name": "untitledproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JC-7991/UntitledRepo.git"
+  },
+  "author": "JC Tapias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JC-7991/UntitledRepo/issues"
+  },
+  "homepage": "https://github.com/JC-7991/UntitledRepo#readme"
+}
